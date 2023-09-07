@@ -1,5 +1,7 @@
 Malaria Detection Using Deep Learning
+
 Introduction
+
 Problem Definition
 The problem at hand is to build an efficient computer vision model to detect malaria in red blood cells. Malaria is a significant and contagious disease that affects a large portion of the global population, and it can be life-threatening if not diagnosed and treated early. Traditional laboratory diagnosis of malaria is time-consuming and relies heavily on human expertise, leading to potential inaccuracies due to inter-observer variability.
 
